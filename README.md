@@ -12,3 +12,5 @@ The first time you hit the page it should have you authenticate through OAuth. O
 
 A good place to start if you're struggling is:
 https://developers.google.com/glass/quickstart/php
+
+Enjoy!
